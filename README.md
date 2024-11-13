@@ -1,6 +1,7 @@
 # Projet de gestion de badges RFID
 
-Le projet permet de gérer les données des badges RFID via une interface en ligne de commande.
+Le projet permet de gérer les données des badges RFID via une interface en ligne de commande. \
+Le programme Python fonctionne sous la forme d'une boucle infinie qui affiche une mini-interface dans le terminal de l'éditeur.
 
 ## Sommaire
 - [Aperçu](#aperçu)
