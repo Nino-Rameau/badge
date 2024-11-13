@@ -125,4 +125,4 @@ conn = mysql.connector.connect(
 
 ## Licence
 
-Réalisation dans le cadre d'un projet scolaire.
+Réalisation dans le cadre d'un projet scolaire en novembre 2023.
